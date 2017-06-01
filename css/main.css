@@ -1,0 +1,518 @@
+/* NAVIGATION BAR */
+body {
+  margin: 0px;
+}
+.navbar {
+  margin: -15px;
+  border: 13px;
+}
+.navbar-default div {
+  background-color: #a2d3da;
+  padding-left: 100px;
+  padding-top: 10px;
+}
+
+.navbar-right {
+  padding-right: 190px;
+  font-family:"bitter";
+  position:relative;
+  bottom: 18px;
+}
+
+.navbar-default i >h1 {
+  font-size: 25px;
+  position: relative;
+  font-family: "bitter";
+  font-weight: bold;
+  display: inline-block;
+  margin: 11px;
+}
+
+.navbar-default i {
+  font-size: 20px;
+  position: relative;
+  top: 45px;
+}
+
+/* FIRST SECTION CSS*/
+
+.main1 {
+  background-color:#a2d3da;
+  margin: -15px;
+  padding-top:10px;
+}
+
+.page-header img {
+  float: right;
+  position: relative;
+  left: 525px;
+  bottom: 90px;
+}
+
+.main1 h1 {
+  font-family: "bitter";
+  position: relative;
+  left: 230px;
+  top: 34px;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+.main1 i {
+  float: right;
+  position: relative;
+  top: 160px;
+  left: 470px;
+  margin: 3px;
+  color: white
+}
+
+/* SECOND SECTION CSS */
+.main2 {
+  margin: 10px;
+  padding: 25px 10px 40px 15px;
+}
+
+ .main2 img {
+   position:relative;
+   left: 140px;
+   margin: 2px;
+ }
+
+ .main2 h2 {
+   text-align: center;
+   font-family: "bitter";
+   font-weight: bold;
+   font-size: 20px;
+   padding: 10px 10px 0px 10px;
+ }
+
+ .main2 p {
+   font-family: "bitter";
+   text-align: center;
+   font-size: 13px;
+ }
+
+ .text-frame {
+   padding-top: 14px;
+ }
+
+ /* THIRD SECTION CSS */
+
+.main3 {
+  background-color: #9ad4a4;
+  margin: -15px;
+  position: relative;
+  padding-bottom: 75px;
+}
+
+
+.main3 h1 {
+  text-align: center;
+  font-family: "bitter";
+  display: inline-block;
+  position: relative;
+  left: 445px;
+  color: white;
+}
+
+.main3 h3 {
+  text-align: center;
+  font-family: "bitter";
+  font-size: 13px;
+  position: relative;
+  left: 295px;
+  margin: 1px;
+  color: white;
+}
+
+.main3 .active {
+  color: black;
+
+}
+
+.main3 a {
+  color: white;
+}
+
+.main3 li {
+  display: inline-block;
+  position: relative;
+  left: 295px;
+  margin: 15px;
+  top: 27px;
+  font-family: "bitter";
+  font-size: 15px;
+}
+
+.main3 .picture-01 {
+  position: relative;
+  left: 225px;
+  top: 20px;
+  display: inline-flex;
+}
+
+.main3 img {
+  margin: 30px;
+}
+
+.main3 .picture-02 {
+  position: relative;
+  left: 220px;
+  top: 20px;
+  display: inline-flex;
+}
+
+.main3 button {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  font-family: "bitter";
+  font-weight: bold;
+  padding: 14px;
+  position: relative;
+  left: 490px;
+  top: 25px;
+}
+
+/* FOURTH SECTION CSS */
+
+.main4 {
+  background-color: #ededed;
+  margin: -15px;
+  padding: 50px 10px 200px 10px;
+}
+
+
+.section-1 img {
+  position: relative;
+  left: 250px;
+}
+
+.section-1 h1 {
+  font-size: 18px;
+  font-family: "bitter";
+  font-weight: bold;
+  position: relative;
+  left: 455px;
+  bottom: 145px;
+}
+
+.section-1 p {
+  position: relative;
+  left: 455px;
+  bottom: 145px;
+  font-size: 13px;
+  font-family: "bitter";
+}
+.section-1 button {
+  position: relative;
+  left: 455px;
+  bottom: 144px;
+  font-family: "bitter";
+  background-color: #76b180;
+  border: none;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.section-2 img {
+  position: relative;
+  top: 300px;
+  left: 285px;
+}
+
+.section-2 h1 {
+  font-size: 18px;
+  font-family: "bitter";
+  font-weight: bold;
+  position: relative;
+  right: 150px;
+  top: 155px;
+}
+
+.section-2 p {
+  position: relative;
+  right: 150px;
+  top: 155px;
+  font-size: 13px;
+  font-family: "bitter";
+}
+
+.section-2 button {
+  position: relative;
+  right: 150px;
+  top: 155px;
+  font-family: "bitter";
+  background-color: #8cb8be;
+  border: none;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+
+/* FIFTH SECTION CSS */
+
+.main5 {
+  background-color: #e0b7c7;
+  margin: -15px;
+  padding: 0px 10px 0px 10px;
+}
+
+.main5 .row {
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  margin: 60px;
+  position: relative;
+}
+
+.main5 h1 {
+  text-align: center;
+  font-family: "bitter";
+  font-weight: bold;
+  position: relative;
+  left: 250px;
+  color: white;
+}
+
+.main5 .title-01 {
+  text-align: center;
+  font-size: 13px;
+  font-family: "bitter";
+  color: white;
+  position: relative;
+  left: 250px;
+}
+
+.main5 h3 {
+  text-align: center;
+  font-family: "bitter";
+  font-weight: bold;
+}
+
+.main5 h4 {
+  text-align: center;
+  font-family: "bitter";
+}
+
+.main5 p {
+  text-align: center;
+  font-family: "bitter";
+}
+
+.main5 .social-media {
+  padding: 70px;
+  font-size: 30px;
+}
+
+.main5 .fa-facebook {
+  background: #3B5998;
+  color: white;
+  border-radius: 50%;
+  padding: 7px 9px;
+  font-size: 20px;
+}
+
+.main5 .fa-twitter {
+  background: #55ACEE;
+  color: white;
+  border-radius: 50%;
+  padding: 7px;
+  font-size: 20px;
+}
+.main5 .fa-pinterest {
+  background:#cb2027;
+  color: white;
+  border-radius: 50%;
+  padding: 7px;
+  font-size: 20px;
+}
+
+/* SIXTH SECTION CSS */
+
+.main6 {
+  background-color: #a2d3da;
+  margin: -15px;
+  padding: 0px 10px 0px 10px;
+}
+
+.main6 .row {
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  margin: 60px;
+  position: relative;
+}
+.main6 h1 {
+  text-align: center;
+  font-family: "bitter";
+  font-weight: bold;
+  position: relative;
+  left: 250px;
+  color: white;
+}
+
+.main6 .title-01 {
+  text-align: center;
+  font-size: 13px;
+  font-family: "bitter";
+  color: white;
+  position: relative;
+  left: 250px;
+}
+
+.main6 h3 {
+  text-align: center;
+  font-family: "bitter";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.main6 h4 {
+  text-align: center;
+  font-family: "bitter";
+}
+
+.main6 p {
+  text-align: center;
+  font-family: "bitter";
+}
+
+/* SEVENTH SECTION CSS */
+
+.main7 {
+  background-color: #3c3232;
+  margin: -15px;
+  padding-bottom: 400px;
+}
+
+
+.main7 h1 {
+  color: white;
+  font-family: "bitter";
+  font-size: 30px;
+  font-weight: bold;
+  position: relative;
+  left: 415px;
+}
+
+.main7 .title-01 {
+  text-align: center;
+  font-size: 13px;
+  font-family: "bitter";
+  color: white;
+  position: relative;
+  left: 315px;
+  bottom: 6px;
+}
+
+.main7 .row {
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  margin: 60px;
+  position: relative;
+
+}
+
+.box {
+  display: inline-block;
+  float: left;
+  width: 10px;
+  margin: 10px;
+  position: relative;
+  top: 150px;
+  right: 110px;
+  border-radius: 10px;
+
+}
+
+.box input {
+  display: inline-block;
+  float: left;
+  margin: 10px;
+  padding-right: 250px;
+  border-radius: 6px;
+  font-family: "bitter";
+  font-weight: bold;
+  font-size: 14px;
+
+}
+
+.box textarea {
+  display: inline-block;
+  float: left;
+  margin: 10px;
+  padding-right: 240px;
+  padding-bottom: 100px;
+  border-radius: 6px;
+  font-family: "bitter";
+  font-weight: bold;
+  font-size: 14px;
+}
+
+ .button {
+  position: relative;
+  left: 37px;
+  top: 450px;
+  font-family: "bitter";
+  background-color: black;
+  display: inline-block;
+  border: none;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+hr {
+  position: absolute;
+  top: 570px;
+  left: 190px;
+  width: 77%;
+  margin: 10px;
+  padding: 10px 10px 2px 9px;
+}
+
+
+.social-media2 {
+  position: relative;
+  top: 235px;
+  left: 254px;
+  width: 77%;
+  margin: 10px;
+  padding: 10px 10px 2px 9px;
+}
+
+.social-media2 .fa-facebook {
+  background: #3B5998;
+  color: white;
+  border-radius: 50%;
+  padding: 3px 8px;
+  font-size: 23px;
+}
+
+.social-media2 .fa-twitter {
+  background: #55ACEE;
+  color: white;
+  border-radius: 50%;
+  padding: 3px 4px;
+  font-size: 23px;
+}
+.social-media2 .fa-pinterest {
+  background:#cb2027;
+  color: white;
+  border-radius: 50%;
+  padding: 5px 7px;
+  font-size: 23px;
+}
+
+.bottom-text {
+  position: relative;
+  color: yellow;
+  text-align: right;
+  right: 352px;
+  top: 190px;
+  font-size: 13px;
+  font-family: "bitter";
+}
